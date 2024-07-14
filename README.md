@@ -1,3 +1,5 @@
+<h1 align="center">Bienvenido al Foro Hub</h1>
+ 
  ![](https://github.com/user-attachments/assets/cfab2698-d997-45f5-8e61-383f34d761c5)
 
  <p align="center">
@@ -10,6 +12,5 @@
 
  </p>
 
-<h1 align="center">Bienvenido al Foro Hub</h1>
 
 
