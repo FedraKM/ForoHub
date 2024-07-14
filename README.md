@@ -10,6 +10,6 @@
 
  </p>
 
-<h1>Bienvenido al Foro Hub</h1>
+<h1 align="center">Bienvenido al Foro Hub</h1>
 
 
